@@ -1,0 +1,9 @@
+switch case
+---------------
+
+ case $1 in
+start)
+	echo "starting $1
+stop)
+	echo "stopping $1
+restart
